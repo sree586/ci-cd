@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: neha641/chinna:5
+        image: neha641/chinna:18
         ports:
         - containerPort: 8080
 
